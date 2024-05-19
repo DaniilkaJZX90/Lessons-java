@@ -10,7 +10,7 @@ public class Solution {
         animals.add("cat");
         animals.add("dog");
         animals.add("frog");
-        animals.add(6);
+        //animals.add();
 
         //for (Object o : animals) {
         //    System.out.println(o);
