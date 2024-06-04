@@ -1,6 +1,6 @@
 package org.example.lesson41.abstractClass;
 
-public class Cat implements AbleToMakeSound{
+public class Cat extends Animal implements AbleToMakeSound{
     public void makeSound(){
         System.out.println("meow..");
     }
